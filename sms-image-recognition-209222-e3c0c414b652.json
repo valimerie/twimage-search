@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sms-image-recognition-209222",
+  "private_key_id": "e3c0c414b652c615b9359db0abb212734b34a92f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCs5HTxOibc/nTy\ngqNlkYKB+bM0o2uP68euhIxd5kLnXMFf2k/+jPin3xyv5/fxl4vy1zs2qTCRLAfU\nZHytd8OqEr64MhKxS8qr440DefJpvlXnsmorF/RuQid7SU+vG4vZ2vTHbracz/zL\neYF3B8lYzphpd9fK5mKHnnPeYDQ5puSRzo+vhsOyGMAC02sjqxKkb9C68E3MAN58\nuJkS2aAy8AlTtOpvJCs+81VBqJJ+loDAmBL8b02nxKjOdPw8co8ua5pM/Q5YunFc\nKXvVBIufJRcpgQolxgV2/9GCOEN5hyzUxINtff1Tih4O31RuCGp4WEBqk0T2YPdF\nJQsjkO3bAgMBAAECggEAAgIWKe0foW+i52Qy6vIqp67TcPgmY1QPZ57hOaSOQIZq\no7lOf45Vw5zUT0HjkiffZVXCy/Pzj2QbmuNMxEkJ5428U8vOPQ/zO3pOgBFWLvoZ\n6cP29rnjkyNrtrEXg1kYxmRfmedo8brobv10PCbqW7d+l9golEj05+DI7C2q4jH0\nE/ER6Ha4Zr905vWg4vWdXWjHaA3oUHEu9QWxop4kuQ/ENb2heLdrcs9fuUhLaN2H\nWMGc5LgFhms3IP1k8uHOfnTq3Zuiz4P5DfA2316E1qWXLVkCLqEy1zHBTHDSfeH/\nT+ekXtBOoTHw2/s6aPEIROYyCeJpI0tPm48s+zc2rQKBgQDn1gBSrJIXoXyXBlRA\nLSt8280EoD4+zT1IIcDb1+Em4n6bMIzam2fW0isKTKBgmGtFi3SWVt45HbgrMi5b\n44bzqpcNTEZ6VwxPr7POD7HLOoYMWG7T76hMTOQ3V3D4IxbRQf4qdoWfRllEkQQ5\n8MsKfmEMUvlWIz/ze2ezuCGL1wKBgQC+6a9+Mf7IWWVKvbex3RU6TP7c1NrR1pm0\nBm6wqIMiEf11OKlZADBAXI4sOpGhhcQnlP/Do77hOYsFdOV6nL5211wX41uovASP\n9qUEacns/miScLq9DBHwSEuHLA8eOlZM8/VQSKHunSErSbL/6YBTJddfHMJOVqQu\nwjKT/bXNnQKBgQCRB5jwHzDNQ6KTP8xY0WkRFNeueyg1VWNuyl7BqM0a7DnTj42t\n++X7x0JRkRoLE46X1OO8YN9nz6W0sBG8PhvgNumD0iGMywPSndHXqI3K2vOcqX27\na4NXKArka/kp4ZmWkrgTjE2PFA0oDagdLvt1txWzBf0g27BX+u0mypuBxQKBgBiR\nlkYVRQafiouN0sAPBZZVJk9hDTAIAAvM8B3H8ehGjGmzewe7IHqH7rv+ZZN11YKK\niEezIPN3Jk7zdjzLQy+kE3P3jGowmB22zhG9U4EuVGLUIxQFI6Hai+2/W8q2Ezkg\nBCfq0PwWOJiLiX+pmxwYOJlC6DaQq9xgnYWyFt15AoGBAIkQwoRQZzm+U2xNouwL\nD0YGYb1j+kCvQkT+0RRUFGmb+S96YBNkNtw8ayFeCEC1V9wdlaECO+m+CGKWfoGH\nOmG6ucKXxBkFd6BynOdVyXsuBXorOmPBUfk0hfJDN5KpXMn0wtJOuk9y/JLL87SK\nyir67WmR3h+R9CXTo762Vtr6\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision@sms-image-recognition-209222.iam.gserviceaccount.com",
+  "client_id": "116717398352093309531",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision%40sms-image-recognition-209222.iam.gserviceaccount.com"
+}
